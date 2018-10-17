@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3980" started-at="2018-10-17T15:39:52Z" finished-at="2018-10-17T15:39:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3980" started-at="2018-10-17T15:39:52Z" finished-at="2018-10-17T15:39:56Z">
+      <class name="postPutDeleteRequest.PostRequest">
+        <test-method status="PASS" signature="testPostRequest()[pri:0, instance:postPutDeleteRequest.PostRequest@7dc7cbad]" name="testPostRequest" duration-ms="3815" started-at="2018-10-17T21:09:52Z" finished-at="2018-10-17T21:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostRequest -->
+        <test-method status="PASS" signature="testPutRequest()[pri:0, instance:postPutDeleteRequest.PostRequest@7dc7cbad]" name="testPutRequest" duration-ms="93" started-at="2018-10-17T21:09:56Z" finished-at="2018-10-17T21:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPutRequest -->
+        <test-method status="PASS" signature="verifyDeleteRequest()[pri:0, instance:postPutDeleteRequest.PostRequest@7dc7cbad]" name="verifyDeleteRequest" duration-ms="36" started-at="2018-10-17T21:09:56Z" finished-at="2018-10-17T21:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteRequest -->
+      </class> <!-- postPutDeleteRequest.PostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
